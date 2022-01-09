@@ -1,0 +1,30 @@
+.my-modal {
+    width: 55vw;  
+    max-width: 55vw;
+} 
+
+.my-input {
+    width: 255px;
+}
+
+.my-form {
+    width: 180px;
+}
+
+.my-debit {
+    color: red;
+    font-weight: 600;
+    /* margin-top: 5px; */
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 210px;
+}
+
+.my-credit {
+    color: #33E2FF;
+    font-weight: 600;
+    /* margin-top: 5px; */
+    vertical-align: -webkit-baseline-middle;
+    margin-left: 210px;
+}
+
+
